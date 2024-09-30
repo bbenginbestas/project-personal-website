@@ -1,0 +1,22 @@
+.initial-container {
+    background-image: url(./assets/images/planets.jpg);
+    background-size:cover;
+    height: 110vh;
+}
+
+#first {
+    font-size: 4rem;
+    padding-top: 25rem;
+    color: lightblue;
+    font-family: Georgia, serif;
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+#second {
+    font-size: 2rem;
+    color: lightblue;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+        1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
