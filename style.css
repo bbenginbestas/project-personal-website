@@ -21,3 +21,12 @@
         1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
 }
 
+#portrait {
+    border-radius: 50%;
+    height: 12rem;
+    padding-bottom: 1rem;
+}
+
+.text-body-emphasis {
+    margin-top: 2rem;
+}
